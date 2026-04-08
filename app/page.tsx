@@ -533,7 +533,7 @@ export default function DashboardPage() {
 
                     {activeTab === 'dms-customer-propositions' && (
                       <div id="dms-customer-propositions-chart">
-                        <DMSCustomerPropositions title="Customer Intelligence — Global Automotive DMS Market" />
+                        <DMSCustomerPropositions title="Customer Intelligence — U.S. Phishing Simulator Market" />
                       </div>
                     )}
                   </>
@@ -639,7 +639,7 @@ export default function DashboardPage() {
                     {isChartVisible('dms-customer-propositions') && (
                       <div className="pb-8">
                         <h3 className="text-lg font-semibold text-black mb-4">👥 Customer Intelligence — DMS Propositions</h3>
-                        <DMSCustomerPropositions title="Customer Intelligence — Global Automotive DMS Market" />
+                        <DMSCustomerPropositions title="Customer Intelligence — U.S. Phishing Simulator Market" />
                       </div>
                     )}
                   </div>

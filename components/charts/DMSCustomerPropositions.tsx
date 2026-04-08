@@ -268,7 +268,7 @@ export default function DMSCustomerPropositions({ title = 'Customer Intelligence
       <div>
         <h2 className="text-xl font-bold text-gray-900">{title}</h2>
         <p className="text-sm text-gray-600 mt-1">
-          Verified customer directory and insight tiers for the Global Automotive Dealer Management Systems (DMS) market.
+          Verified customer directory and insight tiers for the U.S. Phishing Simulator market.
           Three propositions provide progressively richer attributes — from basic contact data to full strategic intelligence.
         </p>
       </div>
