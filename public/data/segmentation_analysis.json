@@ -1,95 +1,46 @@
 {
   "Global": {
-    "By Offering": {
-      "Software": {
-        "Integrated Software Platforms": {
-          "End-to-End Dealership Management Suites": {},
-          "Unified Front-Office + Back-Office Platforms": {}
-        },
-        "Standalone Software Platforms": {
-          "Modular / Point Solutions": {}
-        },
-        "Core Functional Modules": {
-          "Vehicle Inventory Management": {},
-          "Sales Management & Deal Structuring": {},
-          "Finance, Accounting & Insurance (F&I) Systems": {},
-          "Title & Registration Automation": {}
-        },
-        "Digital & Advanced Capabilities": {
-          "Digital Retailing & Online Car Buying Platforms": {},
-          "Advanced Analytics & Business Intelligence": {},
-          "AI-Based Pricing & Demand Forecasting": {}
-        },
-        "Customer & Revenue Growth Tools": {
-          "Marketing Automation & Lead Management": {},
-          "Trade-In, Appraisal & Valuation Tools": {},
-          "Customer Engagement & Loyalty Platforms": {}
-        },
-        "Others (Document Management, E-Signature & Contract Automation, etc.)": {}
-      },
-      "Services": {
-        "Implementation & System Integration": {},
-        "Training & Support": {},
-        "Managed Services and Hosted Operations": {}
-      }
+    "By Simulation Channel": {
+      "Email Phishing": {},
+      "SMS Phishing (Smishing)": {},
+      "Voice Phishing (Vishing)": {},
+      "Collaboration Platform Phishing (Teams, Slack, etc.)": {},
+      "Multi-Channel Phishing": {}
     },
-    "By Functionality": {
-      "Sales & CRM Management": {},
-      "Inventory Management": {},
-      "Finance & Insurance (F&I)": {},
-      "Service & Parts Management": {},
-      "Accounting & Compliance": {},
-      "Analytics & Reporting": {}
+    "By Simulation Sophistication": {
+      "Static / Template-Based Simulation": {},
+      "Contextual / Role-Based Simulation": {},
+      "AI-Generated / Adaptive Simulation": {}
+    },
+    "By Platform Category": {
+      "Standalone Phishing Simulation Tools": {},
+      "Security Awareness & Training Platforms (with simulation)": {},
+      "Human Risk Management (HRM) Platforms": {}
+    },
+    "By Analytics Maturity": {
+      "Descriptive Analytics (campaign results, click rates)": {},
+      "Behavioral Analytics (user interaction patterns)": {},
+      "Predictive / Risk-Based Analytics (risk scoring, forecasting)": {}
     },
     "By Deployment Model": {
-      "Cloud-based (SaaS)": {},
-      "On-premise": {},
-      "Hybrid": {}
+      "Cloud-Based (SaaS)": {},
+      "On-Premises": {}
     },
-    "By Business Size": {
-      "Small Dealerships (Single Location)": {},
-      "Mid-size Dealerships (2–5 Locations)": {},
-      "Large Dealer Groups (6+ Locations)": {}
+    "By Organization Size": {
+      "Large Enterprises": {},
+      "Small & Mid-Sized Enterprises": {}
     },
-    "By Vehicle Type": {
-      "Passenger Vehicles": {},
-      "Light Commercial Vehicles (LCV)": {},
-      "Heavy Commercial Vehicles (HCV)": {}
+    "By Industry Vertical": {
+      "BFSI": {},
+      "Healthcare & Life Sciences": {},
+      "IT & Telecom": {},
+      "Government & Defense": {},
+      "Retail & E-commerce": {},
+      "Manufacturing": {},
+      "Others (Energy & Utilities, Education, etc.)": {}
     },
     "By Region": {
-      "North America": {
-        "U.S.": {},
-        "Canada": {}
-      },
-      "Europe": {
-        "U.K.": {},
-        "Germany": {},
-        "Italy": {},
-        "France": {},
-        "Spain": {},
-        "Russia": {},
-        "Rest of Europe": {}
-      },
-      "Asia Pacific": {
-        "China": {},
-        "India": {},
-        "Japan": {},
-        "South Korea": {},
-        "ASEAN": {},
-        "Australia": {},
-        "Rest of Asia Pacific": {}
-      },
-      "Latin America": {
-        "Brazil": {},
-        "Argentina": {},
-        "Mexico": {},
-        "Rest of Latin America": {}
-      },
-      "Middle East & Africa": {
-        "GCC": {},
-        "South Africa": {},
-        "Rest of Middle East & Africa": {}
-      }
+      "U.S.": {}
     }
   }
 }
